@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | SQL | Business Intelligence | Power BI</h3>
 
 <p align="center">
-Building end-to-end analytical projects focused on business intelligence and decision-making.
+Construyendo proyectos end-to-end orientados al análisis de datos y la toma de decisiones.
 </p>
 
 - 📊 Desarrollando proyectos end-to-end orientados al análisis de datos.
