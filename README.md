@@ -19,7 +19,7 @@ Construyendo proyectos end-to-end orientados al análisis de datos y la toma de 
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn">
   </a>
 
-  <a href="[https://franpaez.github.io/hartseer-analytics/#/executive](https://franpaez.github.io/portfolio/)" target="_blank">
+  <a href="https://franpaez.github.io/hartseer-analytics/#/executive](https://franpaez.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
