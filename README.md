@@ -61,9 +61,9 @@ End-to-end Business Intelligence platform for retail business analysis.
 
 **Links**
 
-- 🌐 Live Demo
-- 📂 Repository
-- 📄 Documentation
+- [🌐 Live Demo](https://franpaez.github.io/hartseer-analytics/) •
+- [📄 Documentation](https://github.com/FranPaez/hartseer-analytics/blob/main/analytics/documentation/Hartseer_Analytics_Documentation.pdf) •
+- [📂 Repository](https://github.com/FranPaez/hartseer-analytics) •
 
 </td>
 </tr>
