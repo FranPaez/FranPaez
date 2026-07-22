@@ -68,3 +68,45 @@ End-to-end Business Intelligence platform for retail business analysis.
 </td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td width="100%">
+
+### 📊 E-commerce Business Analysis
+
+Business Intelligence project developed in Microsoft Excel using a public e-commerce dataset.
+
+**Technologies**
+
+- Excel
+
+**Links**
+
+- [📄 Documentation](https://github.com/FranPaez/dataset-excel-ecommerce/blob/main/informe_ecommerce.pdf) •
+- [📂 Repository](https://github.com/FranPaez/dataset-excel-ecommerce) •
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%">
+
+### 📊 Pokémon Dataset Analysis
+
+Exploratory Data Analysis (EDA) using Microsoft Excel
+
+**Technologies**
+
+- Excel
+
+**Links**
+
+- [📄 Documentation](https://github.com/FranPaez/dataset-pokemon/blob/main/Project%20Context.pdf) •
+- [📂 Repository](https://github.com/FranPaez/dataset-pokemon) •
+
+</td>
+</tr>
+</table>
