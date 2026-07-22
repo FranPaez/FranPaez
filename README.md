@@ -75,7 +75,8 @@ End-to-end Business Intelligence platform for retail business analysis.
 
 ### 📊 E-commerce Business Analysis
 
-Business Intelligence project developed in Microsoft Excel using a public e-commerce dataset.
+Business Intelligence project developed in Microsoft Excel using a public
+e-commerce dataset.
 
 **Technologies**
 
